@@ -92,6 +92,12 @@ h3 {
   font-size: 30px;
   color: rgb(129, 129, 129);
   margin-right: 30px;
+  cursor: pointer; /* Feel like a button */
+  user-select: none; /* Prevent the user from selecting */
+}
+
+.fas:hover {
+  filter: brightness(80%);
 }
 
 .main-button {
