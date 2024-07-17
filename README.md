@@ -1,1 +1,1 @@
-[link](itssimple1.github.io/musicplayer-app/)
+[link](https//www.itssimple1.github.io/musicplayer-app/)
